@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+.title {
+  color: blue;
+  font-size: 20px;
+}
+
+.content {
+  background-color: black;
+}
+
+p {
+  color: rgb(188, 24, 24);
+  font-size: 50px;
+}
+
+div {
+  text-align: center;
+  font-style: initial;
+  color: rgb(125, 73, 183);
+  font-size: 30px;
+}

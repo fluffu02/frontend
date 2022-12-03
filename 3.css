@@ -1,0 +1,22 @@
+h1 {
+  font-size: 45px;
+  text-align: center;
+}
+p {
+  font-size: 24px;
+}
+.dick {
+  text-align: center;
+  font-style: italic;
+  font-size: 25px;
+}
+div {
+  text-align-last: center;
+}
+
+.text-1 {
+  font-weight: bold;
+}
+.text-2 {
+  color: blueviolet;
+}
